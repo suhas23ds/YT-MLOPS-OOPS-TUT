@@ -1,3 +1,14 @@
+OOPS CONCEPTS
+--1.class & object
+    --Object is an instance of the class
+    --we write that piece of inside the Constructor that will connect to database and dont have access to user
+--2.Polymorphism
+--3.encapsulation
+--4.Inheritance
+--5.Abstraction
+
+
+
 1.class and obj ( example)
 2.class has data/attribute and func/methods
   --Code walkthrough
@@ -12,3 +23,10 @@
   --encapsulation
   --getter and setter
   --static method
+6.Inheritance
+  --Inheritance code example
+  --Why Inheritance is needed ?( code reusabiltiy,parent has no access to child class)
+  --What gets inherited? -Constructor ,Non private attribute ,non private method
+  --Constructor overloading & method overloading
+  --Super keyword(can be used only inside class can not access variable/attribute used only inside child class)
+  --Types of Inheritance -1. Single Inheritance 2.Multilevel 3.Hierarchical 4.Multiple <Diamond problem> 5.Hybrid
